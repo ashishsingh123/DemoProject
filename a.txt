@@ -13,7 +13,4 @@ Janmejay Singh -Master
 Happy Singh ->Feature1
 Archana Singh -> Feature1
 
-
-Happy Singh ->Feature1
-Archana Singh -> Feature1
-
+Checking fetch...
