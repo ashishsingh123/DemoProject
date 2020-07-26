@@ -3,17 +3,10 @@ Shourya Singh
 Angel Singh
 
 
-
-
-
-
 Saroj Singh - Master
 Janmejay Singh -Master
 
 Happy Singh ->Feature1
 Archana Singh -> Feature1
 
-
-Happy Singh ->Feature1
-Archana Singh -> Feature1
-
+fetch checks inmaster
