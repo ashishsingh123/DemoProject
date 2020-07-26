@@ -9,4 +9,4 @@ Janmejay Singh -Master
 Happy Singh ->Feature1
 Archana Singh -> Feature1
 
-fetch checks inmaster
+fetch checks in master => again commit
